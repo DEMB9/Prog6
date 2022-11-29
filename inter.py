@@ -1,11 +1,7 @@
 from cProfile import label
 from cgitb import text
-import random
 from sqlite3 import Row
 from tkinter import *
-import time
-
-kilometros = [1,3,6,9,12,15,18,21]
 
 condi = 1
 
